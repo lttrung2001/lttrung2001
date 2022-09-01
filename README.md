@@ -12,13 +12,13 @@ I am a Mobile Developer (Android)📱. I'm easily adapt to different hats depend
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently studying at Post and Telecommunication Institute Technology HCMC Campus
+- 🔭 &nbsp; I’m currently studying at Post and Telecommunication Institute Technology HCMC Campus;
 - 🌱 &nbsp; I’m currently learning Android with Kotlin; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lttrung2001?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/thanh-trung-le-3000b2217/)
 - 📝 &nbsp; Checkout my [resume](https://www.topcv.vn/xem-cv/BFJTA1AFB1QDAFpQAlZQUAoDB1cEBwVXVQAGAg05a6)
-- 📚 &nbsp; When I am free, I cycling and listen to music.
+- 📚 &nbsp; When I am free, I cycling and listen to music;
 
 <br>
 
