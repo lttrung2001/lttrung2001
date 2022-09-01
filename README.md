@@ -42,9 +42,6 @@ I am a Mobile Developer (Android)📱. I'm easily adapt to different hats depend
 ![Most Used Languages](https://raw.githubusercontent.com/lttrung2001/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-<a href='https://github.com/lttrung2001/github-stats-transparent'>
-  ![Hehe](https://github-readme-stats.vercel.app/api/top-langs/?username=lttrung2001&langs_count=10)
-</a>
 
 <br>
 
