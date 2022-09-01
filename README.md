@@ -38,8 +38,8 @@ I am a Mobile Developer (Android)📱. I'm easily adapt to different hats depend
 ### 📊 Github Stats
 <a href='https://github.com/lttrung2001/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/lttrung2001/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/lttrung2001/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
