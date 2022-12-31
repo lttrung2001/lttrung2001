@@ -34,17 +34,6 @@ I am a Mobile Developer (Android)📱. I'm easily adapt to different hats depend
 
 <br>
 
-
-### 📊 Github Stats
-<a href='https://github.com/lttrung2001/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/lttrung2001/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/lttrung2001/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
 ### 🛠️ My Projects
 <!-- <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
